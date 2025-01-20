@@ -32,13 +32,11 @@
 
  # Home Page
 
-<div align="center"><a name="menu"></a>
 ![Image](https://github.com/user-attachments/assets/5bbccf6f-b618-4cde-a25c-280d7ecead8c)
 ![Image](https://github.com/user-attachments/assets/96790805-4223-4440-81a7-7f4ec2fdb944)
 ![Image](https://github.com/user-attachments/assets/2cf97a96-a6a7-4d8f-94be-71e63d896483)
 ![Image](https://github.com/user-attachments/assets/2fa83cad-4ecd-4e54-b407-56b609408b7b)
 ![Image](https://github.com/user-attachments/assets/8b4d9eaa-3dea-49cc-85bf-77df41238f3b)
-</div>
 
 The Home Page consists of 5 main sections:
 
