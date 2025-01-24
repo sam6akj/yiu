@@ -168,11 +168,15 @@ The Browse Page consists of 5 main sections:
   - **Play Button** to start the video and a **Similar Content Slider**.
 - **Card Feature**: Displays additional details below the card. Close by clicking the **close icon**.
 
-![ScreenShot](/public/images/readme/14.jpg)
+![Image](https://github.com/user-attachments/assets/3133f207-52ca-40db-9ac7-e804a96990ae)
+![Image](https://github.com/user-attachments/assets/c7b137a2-8f05-4499-9f39-c1cf7173c35a)
+![Image](https://github.com/user-attachments/assets/aeabf2c9-627b-4474-b20c-fcf361bc6034)
 
 </div>
 
-***6) Footer:***
+***4) 
+
+***5) Footer:***
 It contains useful links users may need it.
 
 
