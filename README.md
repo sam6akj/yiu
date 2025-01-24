@@ -123,45 +123,64 @@ It contains useful links users may need it.
 
  # Browse Page
 
-<div align="center"><a name="menu"></a>
 
-![Image](https://github.com/user-attachments/assets/f2c24e97-cd91-411d-9378-66664164d325)
-![Image](https://github.com/user-attachments/assets/baa888e4-9b34-4487-82b5-36a15edc0d35)
-![Image](https://github.com/user-attachments/assets/01621d1e-8473-4f60-aa4f-157103c530c3)
-![Image](https://github.com/user-attachments/assets/e2fe2a62-c8e0-4656-84d1-25f4b7bdf91f)
 </div>
 
-The Browse Page consists of 5 main sections:
+The **Browse Page** consists of 6 main sections:
 
-***1) Header, which includes:***
-- Logo: 
-it redirects you to the home page whenever you click it.
+### ***1) Header, which includes:***
+- **Logo**: Clicking the logo redirects you to the home page.
+- **Categories Links**: 
+  - The page defaults to showing **all movies**. 
+  - Clicking on the **Movies** button displays movie-related content.
+  - Clicking on the **TV Shows** button displays TV show-related content.
+  - The active category will be highlighted.
+- **Featured Movie Title & Description**: Displays the title and description of the featured movie.
+- **Play Button**: Clicking this shows the video player to play the selected movie or TV show.
 
-- Categories Links: 
-It shows the movies of a specific category when you click on it, for example, if you click on the films link it will be active and the browse page will show only the films. And if you click on the series link it will be active and the browse page will show only the series.
+---
 
-- Featured Movie Title & Description:
-It shows the title and description of the featured movie.
+### ***2) Featured Sections:***
+- **Movies Slider**: Displays categories of movies, such as:
+  - **Now Playing Movies**
+  - **Top Rated Movies**
+  - **Popular Movies**
+  - **Upcoming Movies**
+  
+- **TV Shows Slider**: Displays categories of TV shows, such as:
+  - **Airing Today TV Shows**
+  - **On the Air TV Shows**
+  - **Popular TV Shows**
+  - **Top Rated TV Shows**
 
-- Play Button:
-it shows the video player to play the movie.
+---
 
+### ***3) Movie/TV Card:***
+- Each card represents a movie or TV show.
+- When you hover over a card, it enlarges to show more details.
+- Clicking on a card opens a more detailed view (Card Feature).
 
-***2) Movies Slides:***
-It's a slides shows the movies based on their genre.  The genres and all movie information had been retrieved from the Firebase database.
+---
 
-***3) Movie Card:***
-It's an image represent the movie, when you hover over it became bigger and it will show its card feature if you click on it.
+### ***4) Card Feature:***
+- This section appears beneath the movie/TV slider when a card is clicked.
+- It includes:
+  - **Title**: The name of the selected movie or TV show.
+  - **Description**: A brief summary of the content.
+  - **Background Image**: A special image representing the content.
+  - **Play Button**: Clicking this opens the video player to play the selected content.
+  - You can close the card feature by clicking the **close icon** in the top right corner.
 
-***4) Card Feature:***
-it's another section that appears under the movie slide if you click on any movie card, it contains more information about the movie like title, description, a special background represent the movie, and play button. when you click on the play button it shows the video player to play the movie. and you can close the card feature by clicking on the close icon in the top right corner of the card feature.
+---
 
-***5) Video Player:***
-it's a video player that has full controls, appears in the middle of the screen when you click on any play button, and you have to click on the play icon in the video player after it show up because it doesn't have an autoplay option currently.
-And when the video player show up the whole screen became an overlay, and only the video appears in the middle, and when you scroll up and down the video player moves with you.
-The video player should show the video of this movie which you clicked on it, but for this project purpose, it shows only one video as a sample for all movies.
+### ***5) Video Player:***
+- The video player appears in the center of the screen when the **Play Button** is clicked.
+- The player includes full controls, and you need to click the **play icon** to start the video (currently no autoplay).
+- The screen becomes an overlay with only the video displayed in the center. The video player moves with you as you scroll up and down.
+- The video player shows the corresponding video for the selected movie or TV show, but for this project, it currently shows a sample video for all content.
+- You can close the video player by clicking anywhere outside the video player on the screen.
 
-You can close the video player anytime by clicking anywhere else on the screen.
+---
 
 <div align="center"><a name="menu"></a>
 
@@ -169,12 +188,14 @@ You can close the video player anytime by clicking anywhere else on the screen.
 
 </div>
 
-***6) Footer:***
-It contains useful links users may need it.
+---
 
+### ***6) Footer:***
+- Contains useful links that users may need.
 
+---
 
-***### The page is fully responsive to all mobile devices even the small ones. ###***
+### **The page is fully responsive to all mobile devices, even small ones.**
 
 # Live Demo
 
