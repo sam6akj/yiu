@@ -15,7 +15,7 @@
 
 - [Project Walk-Through](#project-walk-through)
   - [Home Page](#home-page)
-  - [Login-in Page](#login-in-page)
+  - [Login Page](#login-in-page)
   - [Sign-up Page](#sign-up-page)
   - [Browse Page](#browse-page)
 - [Live Demo](#live-demo)
@@ -63,12 +63,11 @@ It contains useful links users may need it.
 
 ***### The page is fully responsive to all mobile devices even the small ones. ###***
 
- # Login-in Page
+ # Login Page
  
  <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/11.jpg)
-![ScreenShot](/public/images/readme/12.jpg)
+![Image](https://github.com/user-attachments/assets/560385d1-16c0-43ec-ab93-19e8c116d748)
 </div>
 
 The Sign-in Page consists of 3 main sections:
