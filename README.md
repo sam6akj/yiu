@@ -134,17 +134,14 @@ It contains useful links users may need it.
 The Browse Page consists of 5 main sections:
 
 ***1) Header, which includes:***
-- Logo: 
-it redirects you to the home page whenever you click it.
-
-- Categories Links: 
-It shows the movies of a specific category when you click on it, for example, if you click on the films link it will be active and the browse page will show only the films. And if you click on the series link it will be active and the browse page will show only the series.
-
-- Featured Movie Title & Description:
-It shows the title and description of the featured movie.
-
-- Play Button:
-it shows the video player to play the movie.
+- **Logo**: Clicking the logo redirects you to the home page.
+- **Categories Links**: 
+  - The page defaults to showing **all movies**. 
+  - Clicking on the **Movies** button displays movie-related content.
+  - Clicking on the **TV Shows** button displays TV show-related content.
+  - The active category will be highlighted.
+- **Featured Movie Title & Description**: Displays the title and description of the featured movie.
+- **Play Button**: Clicking this shows the video player to play the selected movie or TV show.
 
 
 ***2) Movies Slides:***
