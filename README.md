@@ -128,6 +128,7 @@ It contains useful links users may need it.
 ![Image](https://github.com/user-attachments/assets/f2c24e97-cd91-411d-9378-66664164d325)
 ![Image](https://github.com/user-attachments/assets/baa888e4-9b34-4487-82b5-36a15edc0d35)
 ![Image](https://github.com/user-attachments/assets/01621d1e-8473-4f60-aa4f-157103c530c3))
+![Image](https://github.com/user-attachments/assets/e2fe2a62-c8e0-4656-84d1-25f4b7bdf91f)
 </div>
 
 The Browse Page consists of 5 main sections:
