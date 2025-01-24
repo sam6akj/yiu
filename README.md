@@ -218,25 +218,15 @@ I have built this project using the following tools & technologies:
 
 # How To Use
 
-To be able to use this react app locally in a development environment you will need the following:
+## Setup .env file
 
-1) You will need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) installed on your computer.
 
-2) You will need an account on [Firebase](https://firebase.com) and you should create a project on your firebase account dedicated to this Netflix project.
-
-3) You will need the "./seed.js" file (which I added in this repo) to seed your firebase backend with movies information. OR you can use your seed file with your information if you want.
-
-4) Then From your terminal, you should do the following:
-
-```cmd
-# Clone this repository
-git clone https://github.com/AhmedTohamy01/React-Netflix-Clone
-
-# Go into the repository
-cd react-netflix-clone
-
-# Install dependencies
-npm install 
+```
+PORT=5000
+MONGO_URI=your_mongo_uri
+NODE_ENV=development
+JWT_SECRET=your_jwt_secre
+TMDB_API_KEY=your_tmdb_api_key
 
 ```
 
