@@ -15,7 +15,7 @@
 
 - [Project Walk-Through](#project-walk-through)
   - [Home Page](#home-page)
-  - [Login Page](#login-in-page)
+  - [Login Page](#login-page)
   - [Sign-up Page](#sign-up-page)
   - [Browse Page](#browse-page)
 - [Live Demo](#live-demo)
