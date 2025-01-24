@@ -37,6 +37,7 @@
 ![Image](https://github.com/user-attachments/assets/2cf97a96-a6a7-4d8f-94be-71e63d896483)
 ![Image](https://github.com/user-attachments/assets/2fa83cad-4ecd-4e54-b407-56b609408b7b)
 ![Image](https://github.com/user-attachments/assets/8b4d9eaa-3dea-49cc-85bf-77df41238f3b)
+![Image](https://github.com/user-attachments/assets/f5ac986c-c9e2-408e-9bd5-f534eafd5624)
 
 The Home Page consists of 5 main sections:
 
