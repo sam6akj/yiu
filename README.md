@@ -195,27 +195,26 @@ It contains useful links users may need it.
 ***Take a look on the live version here:*** https://react-netflix-clone-red.vercel.app/ :octocat: :heart_eyes: 
 
 
-# Technology Used
+### # Technology Used
 
-I have built this project using the following tools & techniques:
-- React.JS
-- React Router.
-- React Forms.
-- React Hooks.
-- useState.
-- useContext.
-- useEffect.
-- useHistory.
-- useState.
-- Compound Components.
-- JSX.
-- CSS Modules.
-- Firebase.
-- VSCode.
-- StyleLint.
-- EsLint.
-- Github Actions.
-- Github Pages.
+I have built this project using the following tools & technologies:
+
+- **React.js**: A JavaScript library for building user interfaces, particularly for single-page applications.
+- **Node.js**: A JavaScript runtime built on Chrome's V8 engine, used for server-side programming.
+- **Express.js**: A web application framework for Node.js, designed for building web applications and APIs.
+- **MongoDB**: A NoSQL database used for storing application data in a flexible, JSON-like format.
+- **Tailwind CSS**: A utility-first CSS framework for styling applications rapidly.
+- **Zustand**: A small, fast, and scalable state management solution for React applications.
+
+### Key Features
+- **Authentication with JWT**: Implementing JSON Web Tokens for secure user authentication.
+- **Responsive UI**: Ensuring the application works well on various devices.
+- **Movie and TV Show Fetching**: Integrating APIs to retrieve movie and TV show data.
+- **Search Functionality**: Allowing users to search for actors and movies.
+- **Watch Trailers**: Providing access to trailers of movies and shows.
+- **Search History Tracking**: Keeping track of user searches.
+- **Similar Movies/TV Shows Recommendations**: Suggesting content based on user interests.
+
 
 
 # How To Use
