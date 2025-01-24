@@ -311,18 +311,3 @@ npm start
 
 9) Now you can see the project in your browser as you see in the live demo link. 
 Happy Hacking!
-
-
-# Show Your Support
-
-Give a ⭐️ if you like this project!
-
-# Acknowledgments
-
-Hat tip to everyone helped me to learn the techniques used in building this project.
-
-# License 
-
-MIT License.
-
-
