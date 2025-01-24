@@ -39,7 +39,7 @@
 ![Image](https://github.com/user-attachments/assets/8b4d9eaa-3dea-49cc-85bf-77df41238f3b)
 ![Image](https://github.com/user-attachments/assets/f5ac986c-c9e2-408e-9bd5-f534eafd5624)
 
-The Home Page consists of 5 main sections:
+The Home Page consists of 4 main sections:
 
 ***1) Header, which includes:***
 - Logo: 
@@ -57,10 +57,7 @@ It's a text input field and a button,  It redirects you to the sign-up page once
 ***3) Jumbotron:***
 This section contains some images and paragraphs beside it, showing the advantages of Netflix. The data of this Jumbotron came from jumbo.json file.
 
-***4) Frequently Asked Questions:***
-This section contains the FAQs in a form of accordion, when you click anywhere in the gray area of the question the answer appears below it, and then you can close the answer by clicking again on the same gray area of the question. The data of these FAQs came from faqs.json file.
-
-***5) Footer:***
+***4) Footer:***
 It contains useful links users may need it.
 
 
