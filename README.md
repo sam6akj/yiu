@@ -125,10 +125,9 @@ It contains useful links users may need it.
 
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/1.jpg)
-![ScreenShot](/public/images/readme/2.jpg)
-![ScreenShot](/public/images/readme/3.jpg)
-![ScreenShot](/public/images/readme/4.jpg)
+![Image](https://github.com/user-attachments/assets/f2c24e97-cd91-411d-9378-66664164d325)
+![Image](https://github.com/user-attachments/assets/baa888e4-9b34-4487-82b5-36a15edc0d35)
+![Image](https://github.com/user-attachments/assets/01621d1e-8473-4f60-aa4f-157103c530c3))
 </div>
 
 The Browse Page consists of 5 main sections:
