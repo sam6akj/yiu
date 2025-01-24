@@ -96,8 +96,7 @@ It contains useful links users may need it.
  
 <div align="center"><a name="menu"></a>
 
-![ScreenShot](/public/images/readme/13.jpg)
-![ScreenShot](/public/images/readme/12.jpg)
+![Image](https://github.com/user-attachments/assets/82ae84d2-5f0e-42d5-beac-26b18e8011e6)
 </div>
 
 The Sign-up Page consists of 3 main sections:
@@ -107,15 +106,13 @@ The Sign-up Page consists of 3 main sections:
 it redirects you to the home page when you click on it.
 
 ***2) Sign-up Form, which includes:***
-- First Name input field.
-
 - Email address input field.
-
+- Username input field.
 - Password input field.
 
-- Sign-up Button: It has a validation option, if any field in the form is empty it will be disabled. If the form fields have any data it will be active and will send the data to the firebase database in the backend for registration. It has also an error handling function.
+The button is disabled until all form fields are filled. Once valid data is entered in all fields, the button becomes active, allowing the form to be submitted and the data to be sent to the MongoDB database for registration.
 
-- Link to Sign-in Page:  it redirects you to the sign-in page.
+- Link to Login Page:  it redirects you to the login page.
 
 
 ***3) Footer:***
