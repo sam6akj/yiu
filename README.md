@@ -70,18 +70,18 @@ It contains useful links users may need it.
 ![Image](https://github.com/user-attachments/assets/560385d1-16c0-43ec-ab93-19e8c116d748)
 </div>
 
-The Sign-in Page consists of 3 main sections:
+The Login Page consists of 3 main sections:
 
 ***1) Header, which includes:***
 - Logo: 
 it redirects you to the home page when you click on it.
 
-***2) Sign-in Form, which includes:***
+***2) Login Form, which includes:***
 - Email address input field.
 
 - Password input field.
 
-- Sign-in Button: It has a validation option, if any field in the form is empty it will be disabled. If the form fields have any data it will be active and will send the data to the firebase database in the backend for authentication. It has also an error handling function.
+- Login Button: It has a validation option, if any field in the form is empty it will be disabled. If the form fields have any data it will be active and will send the data to the MongoDB database in the backend for authentication.
 
 - Link to Sign-up Page:  it redirects you to the sign-up page. 
 
