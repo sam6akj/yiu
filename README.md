@@ -160,19 +160,32 @@ The Browse Page consists of 5 main sections:
   - **Popular TV Shows**
   - **Top Rated TV Shows**
 
-***3) Movie Card:***
-It's an image represent the movie, when you hover over it became bigger and it will show its card feature if you click on it.
+***3) Movie/TV Card:***
+- Each card represents a movie or TV show.
+- **Hover Effect**: When you hover over the card, it will enlarge slightly, giving the user a more detailed view of the movie/TV show.
+- **Click to View Details**: Clicking on a card will open a detailed view, displaying:
+  - **Movie/TV Title**
+  - **Description** of the movie or TV show.
+  - **Background Image**: Special background image representing the content.
+  - **Play Button**: Clicking the play button opens the video player to play the selected content.
 
-***4) Card Feature:***
-it's another section that appears under the movie slide if you click on any movie card, it contains more information about the movie like title, description, a special background represent the movie, and play button. when you click on the play button it shows the video player to play the movie. and you can close the card feature by clicking on the close icon in the top right corner of the card feature.
+ ***4) Card Feature:***
+- This section appears beneath the movie/TV slider when a card is clicked.
+- It includes:
+  - **Title**: The name of the selected movie or TV show.
+  - **Description**: A brief summary of the content.
+  - **Background Image**: A special image representing the content.
+  - **Play Button**: Clicking this opens the video player to play the selected content.
+  - **Similar Content Slider**: A slider showing similar movies or TV shows based on the selected content.
+  - You can close the card feature by clicking the **close icon** in the top right corner.
+
 
 ***5) Video Player:***
-it's a video player that has full controls, appears in the middle of the screen when you click on any play button, and you have to click on the play icon in the video player after it show up because it doesn't have an autoplay option currently.
-And when the video player show up the whole screen became an overlay, and only the video appears in the middle, and when you scroll up and down the video player moves with you.
-The video player should show the video of this movie which you clicked on it, but for this project purpose, it shows only one video as a sample for all movies.
-
-You can close the video player anytime by clicking anywhere else on the screen.
-
+- The video player appears in the center of the screen when the **Play Button** is clicked.
+- The player includes full controls, and you need to click the **play icon** to start the video (currently no autoplay).
+- The screen becomes an overlay with only the video displayed in the center. The video player moves with you as you scroll up and down.
+- The video player shows the corresponding video for the selected movie or TV show, but for this project, it currently shows a sample video for all content.
+- You can close the video player by clicking anywhere outside the video player on the screen.
 <div align="center"><a name="menu"></a>
 
 ![ScreenShot](/public/images/readme/14.jpg)
