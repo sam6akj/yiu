@@ -168,15 +168,6 @@ The Browse Page consists of 5 main sections:
   - **Play Button** to start the video and a **Similar Content Slider**.
 - **Card Feature**: Displays additional details below the card. Close by clicking the **close icon**.
 
-
-***4) Video Player:***
-- Appears when the **Play Button** is clicked.
-- Requires clicking the **play icon** to start.
-- The screen overlays with the video centered, and it moves with scrolling.
-- Shows a sample video for all content.
-- Close by clicking outside the player.
-
-
 ![ScreenShot](/public/images/readme/14.jpg)
 
 </div>
