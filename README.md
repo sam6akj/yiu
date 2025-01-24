@@ -20,12 +20,6 @@
   - [Browse Page](#browse-page)
 - [Live Demo](#live-demo)
 - [Technology Used](#technology-used)
-- [How To Use](#how-to-use)
-- [Show Your Support](#show-your-support)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-
-
 
 
 # Project Walk-Through
