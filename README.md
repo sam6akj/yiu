@@ -140,15 +140,25 @@ The Browse Page consists of 5 main sections:
   - The page defaults to showing **Movies** content.
   - Clicking on the **Movies** button displays movie-related content.
   - Clicking on the **TV Shows** button switches to display TV show-related content.
-  - **Search History**: Shows your recent searches and lets you navigate easily between previous results.
+  - **Search History**: Shows your recent searches.
   
 - **Featured Title & Description**: Displays the title and description of the featured movie or TV show, depending on the active category.
 
 - **Play Button**: Clicking the play button opens the video player to play the selected movie or TV show.
 
 
-***2) Movies Slides:***
-It's a slides shows the movies based on their genre.  The genres and all movie information had been retrieved from the Firebase database.
+***2) Featured Sections:***
+- **Movies Slider**: Displays sections of movies such as:
+  - **Now Playing Movies**
+  - **Top Rated Movies**
+  - **Popular Movies**
+  - **Upcoming Movies**
+  
+- **TV Shows Slider**: Displays sections of TV shows such as:
+  - **Airing Today TV Shows**
+  - **On the Air TV Shows**
+  - **Popular TV Shows**
+  - **Top Rated TV Shows**
 
 ***3) Movie Card:***
 It's an image represent the movie, when you hover over it became bigger and it will show its card feature if you click on it.
