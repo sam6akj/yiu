@@ -15,7 +15,7 @@
 
 - [Project Walk-Through](#project-walk-through)
   - [Home Page](#home-page)
-  - [Sign-in Page](#sign-in-page)
+  - [Login-in Page](#login-in-page)
   - [Sign-up Page](#sign-up-page)
   - [Browse Page](#browse-page)
 - [Live Demo](#live-demo)
@@ -63,7 +63,7 @@ It contains useful links users may need it.
 
 ***### The page is fully responsive to all mobile devices even the small ones. ###***
 
- # Sign-in Page
+ # Login-in Page
  
  <div align="center"><a name="menu"></a>
 
