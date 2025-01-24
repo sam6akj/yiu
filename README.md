@@ -160,33 +160,22 @@ The Browse Page consists of 5 main sections:
   - **Popular TV Shows**
   - **Top Rated TV Shows**
 
-***3) Movie/TV Card:***
+***3) Movie/TV Card & Features:***
 - Each card represents a movie or TV show.
-- **Hover Effect**: When you hover over the card, it will enlarge slightly, giving the user a more detailed view of the movie/TV show.
-- **Click to View Details**: Clicking on a card will open a detailed view, displaying:
-  - **Movie/TV Title**
-  - **Description** of the movie or TV show.
-  - **Background Image**: Special background image representing the content.
-  - **Play Button**: Clicking the play button opens the video player to play the selected content.
-
- ***4) Card Feature:***
-- This section appears beneath the movie/TV slider when a card is clicked.
-- It includes:
-  - **Title**: The name of the selected movie or TV show.
-  - **Description**: A brief summary of the content.
-  - **Background Image**: A special image representing the content.
-  - **Play Button**: Clicking this opens the video player to play the selected content.
-  - **Similar Content Slider**: A slider showing similar movies or TV shows based on the selected content.
-  - You can close the card feature by clicking the **close icon** in the top right corner.
+- **Hover Effect**: The card enlarges slightly on hover.
+- **Click to View Details**: Clicking a card shows:
+  - **Title**, **Description**, and **Background Image**.
+  - **Play Button** to start the video and a **Similar Content Slider**.
+- **Card Feature**: Displays additional details below the card. Close by clicking the **close icon**.
 
 
-***5) Video Player:***
-- The video player appears in the center of the screen when the **Play Button** is clicked.
-- The player includes full controls, and you need to click the **play icon** to start the video (currently no autoplay).
-- The screen becomes an overlay with only the video displayed in the center. The video player moves with you as you scroll up and down.
-- The video player shows the corresponding video for the selected movie or TV show, but for this project, it currently shows a sample video for all content.
-- You can close the video player by clicking anywhere outside the video player on the screen.
-<div align="center"><a name="menu"></a>
+***4) Video Player:***
+- Appears when the **Play Button** is clicked.
+- Requires clicking the **play icon** to start.
+- The screen overlays with the video centered, and it moves with scrolling.
+- Shows a sample video for all content.
+- Close by clicking outside the player.
+
 
 ![ScreenShot](/public/images/readme/14.jpg)
 
