@@ -194,8 +194,7 @@ It contains useful links users may need it.
 
 ***Take a look on the live version here:*** https://react-netflix-clone-red.vercel.app/ :octocat: :heart_eyes: 
 
-
-### # Technology Used
+# Technology Used
 
 I have built this project using the following tools & technologies:
 
