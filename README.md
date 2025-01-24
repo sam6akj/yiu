@@ -174,7 +174,12 @@ The Browse Page consists of 5 main sections:
 
 </div>
 
-***4) 
+***4) Search History:***
+- Displays the latest search history.
+- You can view and delete individual items from the search history.
+- History is updated with each new search.
+
+![Image](https://github.com/user-attachments/assets/1e2be9f1-8729-472e-8c53-22dc53d89765)
 
 ***5) Footer:***
 It contains useful links users may need it.
