@@ -20,7 +20,7 @@
   - [Browse Page](#browse-page)
 - [Live Demo](#live-demo)
 - [Technology Used](#technology-used)
-
+- [How to Use](#how-to-use)
 
 # Project Walk-Through
 
