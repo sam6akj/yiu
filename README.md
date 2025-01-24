@@ -199,21 +199,21 @@ It contains useful links users may need it.
 
 I have built this project using the following tools & technologies:
 
-- **React.js**: A JavaScript library for building user interfaces, particularly for single-page applications.
-- **Node.js**: A JavaScript runtime built on Chrome's V8 engine, used for server-side programming.
-- **Express.js**: A web application framework for Node.js, designed for building web applications and APIs.
-- **MongoDB**: A NoSQL database used for storing application data in a flexible, JSON-like format.
-- **Tailwind CSS**: A utility-first CSS framework for styling applications rapidly.
-- **Zustand**: A small, fast, and scalable state management solution for React applications.
+- **React.js**
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **Tailwind CSS**
+- **Zustand**
 
 ### Key Features
-- **Authentication with JWT**: Implementing JSON Web Tokens for secure user authentication.
-- **Responsive UI**: Ensuring the application works well on various devices.
-- **Movie and TV Show Fetching**: Integrating APIs to retrieve movie and TV show data.
-- **Search Functionality**: Allowing users to search for actors and movies.
-- **Watch Trailers**: Providing access to trailers of movies and shows.
-- **Search History Tracking**: Keeping track of user searches.
-- **Similar Movies/TV Shows Recommendations**: Suggesting content based on user interests.
+- **Authentication with JWT**
+- **Responsive UI**
+- **Movie and TV Show Fetching**
+- **Search Functionality**
+- **Watch Trailers**
+- **Search History Tracking**
+- **Similar Movies/TV Shows Recommendations**
 
 
 
